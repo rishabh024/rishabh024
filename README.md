@@ -1,6 +1,6 @@
 # Rishabh Gupta <img src="./images/Developer.gif" width="42px">
 
-<h2 align="left">Hello folks! <img src="./images/Hi.gif" width="30px"></h2>
+<h2 align="left">Hello folks!! <img src="./images/Hi.gif" width="30px"></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh564" alt="Rishabh Gupta" /> </p>
 
@@ -38,7 +38,7 @@
   <img align="left" alt="rishabh-gupta-b6a1731a2" | Linkedin" title="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
 </a>                                   
 <a href="mailto:rishabhgupta2498@gmail.com" target="_blank">
-  <img align="left" alt="gmail" | Gmail" title="Gmail"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />
+  <img align="left" alt="Gmail" | Gmail" title="Gmail"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />
 </a>                                                                                                  
 <a href="https://www.hackerrank.com/_181500563" target="_blank">
   <img align="left" alt="Rishabh Gupta" | HackerRank" title="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
@@ -57,5 +57,4 @@
 <br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh564&" alt="rishabh564" /></p>
-<br />
 <h4 align="center">😊Thanks for visiting. Good Wishes💐</h4>
