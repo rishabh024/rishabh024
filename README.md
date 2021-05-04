@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Frontend and Machine Learning**
 
-- 📫 How to reach me:   **rishabh.gupta_cs18@gla.ac.in**
+- 📫 How to reach me:   **rishabhgupta2498@gmail.com**
 
 
 ### Blogs posts
@@ -36,13 +36,20 @@
 
 <a href="https://www.linkedin.com/in/rishabh-gupta-b6a1731a2/" target="_blank">
   <img align="left" alt="rishabh-gupta-b6a1731a2" | Linkedin" title="LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"> 
-</a>                                                                                                                                     
+</a>                                   
+<a href="mailto:rishabhgupta2498@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" />
+</a>                                                                                                  
 <a href="https://www.hackerrank.com/_181500563" target="_blank">
   <img align="left" alt="Rishabh Gupta" | HackerRank" title="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
 </a>
 <a href="https://www.instagram.com/_its._rishabh/" target="_blank">
   <img align="left" alt="_its._rishabh" | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg">
 </a>
+<a href="https://www.instagram.com/_its._rishabh/" target="_blank">
+  <img align="left" alt="_its._rishabh" | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg">
+</a>
+
 
 <br />
 <br />
@@ -53,3 +60,5 @@
 <br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh564&" alt="rishabh564" /></p>
+<br />
+<h4 align="center">😇Thanks for visiting. Good Wishes💐</h4>
