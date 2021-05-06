@@ -11,8 +11,6 @@
 
 - 🔭 I’m currently working on **improving my Skills**  
 
-- 💬 Ask me about **Frontend and Machine Learning**
-
 - 📫 How to reach me:   **rishabhgupta2498@gmail.com**
 
 
