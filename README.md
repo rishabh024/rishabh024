@@ -22,7 +22,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh564&show_icons=true&theme=radical)
 <br />
-<br />
 <hr>
 
 ## Connect with me<img src="./images/Handshake.gif" height="28px">
