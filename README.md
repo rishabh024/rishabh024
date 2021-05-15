@@ -17,9 +17,8 @@
 ### Blogs posts
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh564&layout=compact&hide=html&hide_border=true,issues&theme=gruvbox" alt="Rishabh Gupta" />
-<br />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rishabh564&show_icons=true&hide_border=true&count_private=true&hide=prs,issues&theme=gruvbox" alt="Rishabh Gupta" />
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh564&layout=compact&hide=html,issues&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh564&show_icons=true&theme=radical)<br/>
 <br />
 <br />
 <br />
