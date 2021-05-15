@@ -16,9 +16,10 @@
 
 ### Blogs posts
 <br>
+
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh564&layout=compact&hide=html,issues&theme=radical)
 <br>
-<br />
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh564&show_icons=true&theme=radical)
 <br />
 <br />
