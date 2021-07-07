@@ -48,5 +48,5 @@
 
 <br />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh564&" alt="rishabh564" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh024&" alt="rishabh564" /></p>
 <h4 align="center">😊Thanks for visiting. Good Wishes💐</h4>
