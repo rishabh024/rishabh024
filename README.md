@@ -17,10 +17,10 @@
 ### Blogs posts
 <br>
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh564&layout=compact&hide=html,issues&theme=radical)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh024&layout=compact&hide=html,issues&theme=radical)
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh564&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishabh024&show_icons=true&theme=radical)
 <br />
 <hr>
 
