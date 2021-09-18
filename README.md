@@ -35,9 +35,9 @@
 <a href="https://www.hackerrank.com/_181500563" target="_blank">
   <img align="left" alt="Rishabh Gupta" | HackerRank" title="HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg"> 
 </a>
-<a href="https://www.instagram.com/_its._rishabh/" target="_blank">
+<!-- <a href="https://www.instagram.com/_its._rishabh/" target="_blank">
   <img align="left" alt="_its._rishabh" | Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg">
-</a>
+</a> -->
 
 
 <br />
