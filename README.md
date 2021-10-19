@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh564" alt="Rishabh Gupta" /> </p>
 
-####  I am a 3rd Year undergraduate from <a href="https://www.gla.ac.in/"><b>GLA University,</b> Mathura</a>. 
+####  I am a 4th year undergraduate from <a href="https://www.gla.ac.in/"><b>GLA University,</b> Mathura</a>. 
 
 
 - 🌱 I’m currently learning **Machine Learning and Front-End Technologies**
