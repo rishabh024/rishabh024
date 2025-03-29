@@ -4,14 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabh564" alt="Rishabh Gupta" /> </p>
 
-####  I am a 4th year undergraduate from <a href="https://www.gla.ac.in/"><b>GLA University,</b> Mathura</a>. 
+####  I'm currently working as a software developer at <a href="https://covalensedigital.com/"><b>Covalense Digital,</b> Bengaluru</a>. 
 
 
-- 🌱 I’m currently learning **Machine Learning and Front-End Technologies**
+- How to reach me:   **rishabhgupta2498@gmail.com**
 
-- 🔭 I’m currently working on **improving my Skills**  
-
-- 📫 How to reach me:   **rishabhgupta2498@gmail.com**
+- LinkedIn Profile:  <a href="https://www.linkedin.com/in/rishabh-gupta-b6a1731a2/"><b> Rishabh Gupta</b> </a>
 
 
 ### Blogs posts
